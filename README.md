@@ -1,2 +1,1 @@
-# ansible_fortinet
-Ansible scripts for Fortinet/FortiOS
+Scripts are in progress...
